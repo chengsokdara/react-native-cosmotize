@@ -1,0 +1,22 @@
+{
+  "name": "@chengsokdara/react-native-cosmotize-example",
+  "displayName": "ReactNativeCosmotize Example",
+  "expo": {
+    "name": "@chengsokdara/react-native-cosmotize-example",
+    "slug": "chengsokdara-react-native-cosmotize-example",
+    "description": "Example app for @chengsokdara/react-native-cosmotize",
+    "privacy": "public",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
