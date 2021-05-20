@@ -36,13 +36,13 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/chengsokdara/react-native-cosmotize/chengsokdara-react-native-cosmotize",
+  "repository": "https://github.com/chengsokdara/react-native-cosmotize",
   "author": "Cheng Sokdara <chengsokdara@gmail.com> (https://github.com/chengsokdara/react-native-cosmotize)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/chengsokdara/react-native-cosmotize/chengsokdara-react-native-cosmotize/issues"
+    "url": "https://github.com/chengsokdara/react-native-cosmotize/issues"
   },
-  "homepage": "https://github.com/chengsokdara/react-native-cosmotize/chengsokdara-react-native-cosmotize#readme",
+  "homepage": "https://github.com/chengsokdara/react-native-cosmotize#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
