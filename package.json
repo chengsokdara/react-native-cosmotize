@@ -44,6 +44,7 @@
   },
   "homepage": "https://github.com/chengsokdara/react-native-cosmotize#readme",
   "publishConfig": {
+    "access": "public",
     "registry": "https://registry.npmjs.org/"
   },
   "devDependencies": {
