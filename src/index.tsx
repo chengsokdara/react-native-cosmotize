@@ -2,6 +2,7 @@ import React from 'react';
 import { View as RNView, ViewStyle } from 'react-native';
 
 import { EColors } from './enums';
+import type { IViewProps } from './types';
 import { isNumeric } from './utils';
 
 /**
